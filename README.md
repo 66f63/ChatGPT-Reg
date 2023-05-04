@@ -1,8 +1,8 @@
 # 如何在国内注册ChatGPT账号
 
-> 对文章有任何疑问可以提[issue](https://github.com/zhaoweih/ChatGPT-in-China/issues)或者联系我邮箱：zhaoweihao.dev@gmail.com
+> 对文章有任何疑问可以提[issue](https://github.com/66f63/ChatGPT-in-China/issues)或者联系我邮箱：xjmnet@sina.cn
 >
-> 如果需要ChatGPT Plus合租的小伙伴可以到这里上车(建议用手机浏览器打开)：https://universalbus.cn/r?s=OWKBr5bts6eR
+> 如果需要ChatGPT Plus合租的小伙伴可以到这里上车(建议用手机浏览器打开)：https://universalbus.cn/r?s=1hIPmEO3r4
 
 # 开始
 
@@ -18,7 +18,7 @@
 
 ## 准备一个国外的接码平台：
 
-https://sms-activate.org/?ref=4254497
+https://sms-activate.org/?ref=6651889
 
 因为现在国内的手机号是不能注册GPT的，所以需要一个国外的接收验证码的平台
 
@@ -78,10 +78,3 @@ https://sms-activate.org/?ref=4254497
 
 ![](./images/chatgpt-homepage.png)
 
-# 讨论
-
-## TG群
-
-**我创建了一个TG群，遇到问题的小伙伴可以一起讨论**
-
-[![alt text](./images/Logo.png  "telegram")](https://t.me/+dtYvomE5rQI0ZjFl)
