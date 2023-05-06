@@ -1,4 +1,4 @@
-# 如何在国内注册ChatGPT账号
+# 最全ChatGPT注册教程（保姆级）
 
 > 对文章有任何疑问可以联系我wx:bjxjiamin 或邮箱：xjmnet@sina.cn
 >
