@@ -1,20 +1,23 @@
 # 如何在国内注册ChatGPT账号
 
-> 对文章有任何疑问可以提[issue](https://github.com/66f63/ChatGPT-in-China/issues)或者联系我邮箱：xjmnet@sina.cn
+> 对文章有任何疑问可以联系我wx:bjxjiamin 或邮箱：xjmnet@sina.cn
 >
 > 如果需要ChatGPT Plus合租的小伙伴可以到这里上车(建议用手机浏览器打开)：https://universalbus.cn/r?s=1hIPmEO3r4
 
 # 开始
 
-## 准备一个翻墙代理：
-
-如果没有代理的可以参考我这篇文章去配置一个科学上网:https://github.com/zhaoweih/Shadowsocks-Tutorial
-
+## 准备一个科学上网工具：
+- 需要科学上网的代理软件，有很多选择:[我推荐这个超好用] vee: https://kxe1.net/3d67dee
 因为ChatGPT封了中国区，所以首先得准备一个翻墙代理，切换到**非大陆和香港**节点。
 
 配置好后可以到https://whoer.net/zh 这个网站查看你当前的IP是不是国外的
 
 ![](./images/proxy.png)
+## 准备一个邮箱
+谷歌邮箱或微软或域名邮箱谷歌，推荐使用谷歌邮箱。
+
+如果没有代理的可以参考我这篇文章去配置一个科学上网:https://github.com/zhaoweih/Shadowsocks-Tutorial
+
 
 ## 准备一个国外的接码平台：
 
