@@ -10,7 +10,7 @@
 需要科学上网的代理软件，有很多选择:<br>
 - [我推荐这个超好用] vee: https://kxe1.net/3d67dee
 
-- GW树洞:https://balala.io/auth/register?code=6I54
+- GW树洞:https://balala.io/auth/register
 
 - BBQ烧烤：https://qiaoxbbq.com/#/register?code=OuXpEjGC
 
