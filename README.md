@@ -8,11 +8,7 @@
 
 ## 准备一个科学上网工具：
 需要科学上网的代理软件，有很多选择:<br>
-- [我推荐这个超好用] vee: https://kxe1.net/3d67dee
-
-- GW树洞:https://balala.io/auth/register
-
-- BBQ烧烤：https://qiaoxbbq.com/#/register?code=OuXpEjGC
+https://dwz.cn/BCJZ1BZv 
 
 
 因为ChatGPT封了中国区，所以首先得准备一个翻墙代理，切换到**非大陆和香港**节点。
