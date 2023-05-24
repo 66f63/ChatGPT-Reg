@@ -1,6 +1,6 @@
 # 最全ChatGPT注册教程（保姆级）
 
-> 对文章有任何疑问可以联系我wx:bjxjiamin 或邮箱：xjmnet@sina.cn
+> 对文章有任何疑问可以联系我QQ:3393767075
 >
 > 如果需要ChatGPT Plus合租的小伙伴可以到这里上车(建议用手机浏览器打开)：https://universalbus.cn/r?s=1hIPmEO3r4
 
